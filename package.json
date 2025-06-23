@@ -1,0 +1,26 @@
+{
+    "name": "brainrot-language",
+    "version": "1.1.0",
+    "description": "Brainrot programming language",
+    "main": "brainrot-interpreter.c",
+    "bin": {
+      "brot": "gcc brainrot-interpreter.c lib/logics/lexer/*.c lib/logics/parser/*.c -o bin/a.exe && .\\bin\\a.exe"
+    },
+    "scripts": {
+      "start": "gcc brainrot-interpreter.c lib/logics/lexer/*.c lib/logics/parser/*.c -o bin/a.exe && .\\bin\\a.exe"
+    },
+    "directories": {
+      "examples": "examples"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zicofarry/Brainrot-Programming-Language.git"
+    },
+    "author": "Muhammad 'Azmi Salam",
+    "license": "UPI",
+    "bugs": {
+      "url": "https://github.com/zicofarry/Brainrot-Programming-Language/issues"
+    },
+    "homepage": "https://github.com/zicofarry/Brainrot-Programming-Language#readme"
+  }
+  

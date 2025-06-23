@@ -1,0 +1,15 @@
+skibidi n
+bombaclat "Masukan angka broww!"
+gyatt n
+
+goofy n peak 0 :
+    bombaclat "Angka Masukan adalah bilangan Positif"
+sus n mid 0 :
+    bombaclat "Angka Masukan adalah bilangan Negatif"
+stahp
+
+goofy n match 0 :
+    bombaclat "Kamu masukin angka nol yahh"
+stahp
+
+danYappp

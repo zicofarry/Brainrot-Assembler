@@ -1,0 +1,25 @@
+{
+    "name": "Brainrot",
+    "fileTypes": ["brainrot"],
+    "scopeName": "source.brainrot",
+    "patterns": [
+      {
+        "name": "keyword.control.brainrot",
+        "match": "\\b(skibidi|sigmaBoy|bombaclat|gyatt|goofy|ahh|lingaguliguli|tungtungtung|danYappp|stahp)\\b"
+      },
+      {
+        "name": "string.quoted.double.brainrot",
+        "begin": "\"",
+        "end": "\""
+      },
+      {
+        "name": "constant.numeric.brainrot",
+        "match": "\\b\\d+\\b"
+      },
+      {
+        "name": "variable.brainrot",
+        "match": "\\b[a-zA-Z_][a-zA-Z0-9_]*\\b"
+      }
+    ]
+  }
+  

@@ -1,0 +1,84 @@
+skibidi lewandowski
+skibidi raphinha
+skibidi yamal
+sigma perforLewa
+sigma perforRaphi
+sigma perforYamal
+sigma homeAway
+skibidi n
+skibidi performaTim is 0
+
+gyatt lewandowski + raphinha + yamal
+gyatt homeAway
+gyatt n
+
+goofy lewandowski mogged 2 :
+    perforLewa is 'S'
+sus lewandowski match 1 :
+    perforLewa is 'A'
+sus lewandowski match 0 :
+    perforLewa is 'B'
+stahp
+
+goofy raphinha mogged 2 :
+    perforRaphi is 'S'
+sus raphinha match 1 :
+    perforRaphi is 'A'
+sus raphinha match 0 :
+    perforRaphi is 'B'
+stahp
+
+goofy yamal mogged 2 :
+    perforYamal is 'S'
+sus yamal match 1 :
+    perforYamal is 'A'
+sus yamal match 0 :
+    perforYamal is 'B'
+stahp
+
+goofy homeAway match 'H' :
+    performaTim +26 aura
+sus homeAway match 'A' :
+    performaTim +10 aura
+stahp
+
+goofy perforLewa match 'S' :
+    performaTim +20 aura
+stahp
+
+goofy perforRaphi match 'S' :
+    performaTim +20 aura
+stahp
+
+goofy perforYamal match 'S' :
+    performaTim +20 aura
+stahp
+
+goofy homeAway match 'H' butAlso lewandowski + raphinha + yamal peak 5 :
+    performaTim -7 aura
+sus homeAway match 'A' butAlso lewandowski mogged 1 :
+    performaTim +10 aura
+stahp
+
+goofy ( lewandowski match 2 butAlso raphinha match 2 ) orNahh ( lewandowski match 2 butAlso yamal match 2 ) orNahh ( raphinha match 2 butAlso yamal match 2 ) :
+    performaTim +17 aura
+sus ( lewandowski match 0 butAlso raphinha match 0 ) orNahh ( lewandowski match 0 butAlso yamal match 0 ) orNahh ( raphinha match 0 butAlso yamal match 0 ) :
+    performaTim -17 aura
+stahp
+
+skibidi tahun is n / 365
+n is n % 365
+skibidi bulan is n / 30
+skibidi hari is n % 30
+
+goofy ( perforLewa match 'S' orNahh perforRaphi match 'S' orNahh perforYamal match 'S' ) butAlso ( lewandowski mogged 1 orNahh raphinha mogged 1 orNahh yamal mogged 1 ) butAlso ( performaTim mogged 40 ) :
+    bombaclat "Total Performa Tim " + performaTim + "! Visca Barca y Visca catalunya~"
+    bombaclat "Barca perlu latihan lagi selama :"
+    bombaclat tahun + " Tahun " + bulan + " Bulan " + hari + " Hari"
+ahh
+    bombaclat "Total Performa Tim " + performaTim + "! coba lagi BarCa awal musim"
+    bombaclat "Barca perlu latihan lagi selama :"
+    bombaclat tahun + " Tahun " + bulan + " Bulan " + hari + " Hari"
+stahp
+
+danYappp

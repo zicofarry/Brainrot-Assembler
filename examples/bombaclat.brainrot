@@ -1,0 +1,5 @@
+sigmaBoy nama is "rifa"
+sigmaBoy umur is "17 tahun"
+
+bombaclat "halo semuanya nama saya adalah " + nama + " umur saya " + umur
+danYapp
